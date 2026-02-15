@@ -1,0 +1,5 @@
+streamlit
+openai-whisper
+groq
+python-dotenv
+torch
