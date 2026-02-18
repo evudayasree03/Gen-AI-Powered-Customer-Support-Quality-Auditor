@@ -6,9 +6,19 @@ In this task, I have to transcribe the call logs and summarize the calls and sum
 
 
 
+
+
+
+
 2. Transcribing the call log:
 
 <img width="1000" height="600" alt="Screenshot (140)" src="https://github.com/user-attachments/assets/bf184488-126a-43e7-8d5a-5a84d9872b0d" />
+
+
+
+
+
+
 
 
 
