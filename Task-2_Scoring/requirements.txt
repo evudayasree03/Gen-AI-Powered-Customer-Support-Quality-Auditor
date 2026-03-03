@@ -1,0 +1,12 @@
+os
+re
+streamlit
+groq
+deepgram
+json
+asyncio
+edge_tts
+pydub
+io
+pandas
+plotly
