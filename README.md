@@ -60,3 +60,16 @@ Each interaction is scored across five QA dimensions:
 | Compliance & Bias | Adherence to support protocols and safe language |
 
 ---
+
+## 📈 Interactive Quality Dashboard
+
+An interactive analytics dashboard built using *Streamlit*.
+
+Dashboard features:
+
+- KPI scorecards
+- Radar chart quality visualization
+- Agent strengths and improvement suggestions
+- Conversation insights
+
+---
