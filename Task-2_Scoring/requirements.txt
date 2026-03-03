@@ -1,12 +1,8 @@
-os
-re
 streamlit
 groq
-deepgram
-json
-asyncio
-edge_tts
+deepgram-sdk
+edge-tts
 pydub
-io
 pandas
 plotly
+python-dotenv
