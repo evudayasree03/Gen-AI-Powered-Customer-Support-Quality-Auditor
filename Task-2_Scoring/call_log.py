@@ -7,7 +7,7 @@ from io import BytesIO
 agent_voice = "en-US-GuyNeural"
 customer_voice = "en-US-JennyNeural"
 
-# Read transcript
+# Read transcript in place of "chat.txt" we can write anyother file name with the transciption available for generating the call audio
 with open("chat.txt", "r", encoding="utf-8") as f:
     lines = f.readlines()
 
@@ -55,5 +55,6 @@ async def generate_call():
 
 
 asyncio.run(generate_call())
+
 
 print("Call recording created: call_recording.wav")
