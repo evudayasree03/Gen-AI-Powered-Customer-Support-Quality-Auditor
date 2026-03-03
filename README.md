@@ -7,10 +7,56 @@ The system processes **support calls or chat transcripts**, generates summaries,
 Designed for **enterprises, BPOs, and SaaS companies**, the platform helps improve service quality while significantly reducing manual QA effort.
 
 ---
-This project aims to build a GenAI-powered quality auditing platform that reviews customer 
-support chats and calls, assigns quality scores, detects compliance violations, and suggests 
-improvements in real time. By combining NLP, RAG pipelines, and speech-to-text 
-transcription, the platform leverages LLMs to evaluate tone, empathy, compliance with scripts, 
-and resolution effectiveness. Designed for enterprises, BPOs, and SaaS companies, the 
-solution enhances customer experience, ensures compliance, and reduces manual QA 
-workload.
+# 🚀 Project Objective
+
+Customer support teams handle **large volumes of conversations daily**, making manual quality auditing inefficient and inconsistent.
+
+This project builds a **GenAI-powered auditing platform** that:
+
+- Reviews customer support **calls and chat logs**
+- Automatically **transcribes audio conversations**
+- Generates **AI-powered conversation summaries**
+- Assigns **quality scores across multiple QA metrics**
+- Detects **compliance issues**
+- Provides **agent improvement suggestions**
+
+By integrating **Speech-to-Text, NLP, and LLM-based evaluation**, the system performs **automated conversation analysis in near real-time**.
+
+---
+
+# 🧠 Key Features
+
+## 🎙 Speech-to-Text Transcription
+Audio calls are converted into structured transcripts using **Deepgram Speech-to-Text API**.
+
+Features include:
+
+- Accurate transcription
+- Speaker diarization (Agent vs Customer)
+- Structured conversation formatting
+
+---
+
+## 🧾 AI Conversation Summarization
+Long conversations are summarized using **Llama 3 Large Language Model** via **Groq API**.
+
+Outputs include:
+- Key discussion points
+- Participants involved
+- Overall conversation summary
+
+---
+## 📊 AI Quality Scoring Engine
+
+The platform evaluates conversations using an LLM-based scoring framework.
+Each interaction is scored across five QA dimensions:
+
+| Metric | Description |
+|------|------|
+| Customer Satisfaction | Likelihood that the customer leaves satisfied |
+| Empathy | Emotional intelligence and acknowledgment of customer concerns |
+| Issue Resolution | Effectiveness of the solution provided |
+| Communication Quality | Professionalism and clarity of communication |
+| Compliance & Bias | Adherence to support protocols and safe language |
+
+---
