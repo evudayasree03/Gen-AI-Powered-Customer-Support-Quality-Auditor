@@ -15,9 +15,8 @@ from db import save_call, get_calls
 # -----------------------------
 load_dotenv()
 
-GROQ_API_KEY = os.getenv("GROQ_API_KEY")
-DEEPGRAM_API_KEY = os.getenv("DEEPGRAM_API_KEY")
-
+GROQ_API_KEY = st.secrets["GROQ_API_KEY"]
+DEEPGRAM_API_KEY = st.secrets["DEEPGRAM_API_KEY"]
 groq_client = Groq(api_key=GROQ_API_KEY)
 
 # -----------------------------
@@ -450,3 +449,4 @@ elif menu == "Call History":
             st.subheader("Summary")
 
             st.write(call["Summary"])
+
