@@ -1,0 +1,23 @@
+Speaker 0: Thank you for contacting BrightTech customer support. How can I help you today?
+
+Speaker 1: Hi, I purchased a BT-300 wireless keyboard from your website about two days ago, and it suddenly stopped working this morning. I would like to return it and get a replacement.
+
+Speaker 0: If it stopped working after two days, you probably used it incorrectly.
+
+Speaker 1: I don't think that's the case. I followed the setup instructions in the manual and only used it for normal office work.
+
+Speaker 0: Well, once a product is delivered, returns aren't really our responsibility.
+
+Speaker 1: But the product is defective. It won't even power on anymore even after replacing the batteries.
+
+Speaker 0: That sounds like a hardware issue, but you'll need to contact the manufacturer for that.
+
+Speaker 1: I bought it directly from your website though. Shouldn't the store handle returns or replacements?
+
+Speaker 0: No, our support team doesn't process returns after delivery. You'll have to check the warranty information from the manufacturer.
+
+Speaker 1: That doesn't seem right. The product failed within two days.
+
+Speaker 0: Like I said, there's nothing we can do here.
+
+Speaker 1: Alright then, I guess I'll look for another option.
